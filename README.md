@@ -1,1 +1,1 @@
-# Regress-o-Linear---Previs-o-do-plano-de-sa-de-com-sklearn
+# Regressão Linear - Previsão do plano de saúde com sklearn
